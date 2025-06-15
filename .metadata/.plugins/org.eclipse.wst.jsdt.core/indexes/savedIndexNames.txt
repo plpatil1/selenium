@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+C:\Users\Lenovo\eclipse-workspace\ExamPreparation1\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+245989604.index
+1106124991.index
+3413350551.index
+418686793.index
+1595875549.index
+352377820.index
